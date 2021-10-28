@@ -30,7 +30,7 @@ Weapon priority is something slow (+3.4s swing time) with high damage rather tha
 
 # Dungeons
 
-## The Deadmines *22-26*
+## The Deadmines **22-26**
 **Quests**:
 - [Underground Assault](https://classic.wowhead.com/quest=2040/underground-assault)  from Stormwind
 - [The Defias Brotherhood](https://classic.wowhead.com/quest=166/the-defias-brotherhood) from Westfall (The Defias Traitor Prequest)
@@ -38,14 +38,14 @@ Weapon priority is something slow (+3.4s swing time) with high damage rather tha
 - [Oh Brother...](https://classic.wowhead.com/quest=167/oh-brother) from Stormwind
 - [Collecting Memories](https://classic.wowhead.com/quest=168/collecting-memories) from Stormwind
 
-## Wailing Caverns *22-24*
+## Wailing Caverns **22-24**
 **Quests**:
 - [Deviate Eradication](https://classic.wowhead.com/quest=1487/deviate-eradication) from above WC
 - [Deviate Hides](https://classic.wowhead.com/quest=1486/deviate-hides) from above WC
 - [Smart Drinks](https://classic.wowhead.com/quest=1491/smart-drinks) from Ratchet
 - [Trouble at the Docks](https://classic.wowhead.com/quest=959/trouble-at-the-docks) from Ratchet
 
-## Blackfathom Deeps *28-32*
+## Blackfathom Deeps  **28-32**
 **Quests**:
 - [Knowledge in the Deeps](https://classic.wowhead.com/quest=971/knowledge-in-the-deeps) from Ironforge
 - [Researching the Corruption](https://classic.wowhead.com/quest=1275/researching-the-corruption) from Stormwind then Darkshore
