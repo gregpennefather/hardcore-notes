@@ -17,7 +17,7 @@ Weapon priority is something slow (+3.4s swing time) with high damage rather tha
 # Gear
 
 | Lvl | Slot | Stats | Name | Source
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 13 | Chest | 1 Agil 2 Stam | [Footman Tunic](https://classic.wowhead.com/item=6085/footman-tunic) | Elwynn Forest(Hogger)
 | 15 | Back | 2 Agil | [Cloak of the People's Militia](https://classic.wowhead.com/item=3511/cloak-of-the-peoples-militia) | Westfall(Red Leather Bandanas
 | 18 | Legs | 4 Agil 1 Stam 2 Spr | [Wildkeeper Leggings](https://classic.wowhead.com/item=15202/wildkeeper-leggings) | Darkshore(The Blackwood Corrupted)
