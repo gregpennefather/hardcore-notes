@@ -19,7 +19,7 @@ Weapon priority is something slow (+3.4s swing time) with high damage rather tha
 | Lvl | Slot | Stats | Name | Source
 | --- | --- | --- | --- | --- |
 | 13 | Chest | 1 Agil 2 Stam | [Footman Tunic](https://classic.wowhead.com/item=6085/footman-tunic) | Elwynn Forest(Hogger)
-| 15 | Back | 2 Agil | [Cloak of the People's Militia](https://classic.wowhead.com/item=3511/cloak-of-the-peoples-militia) | Westfall(Red Leather Bandanas
+| 15 | Back | 2 Agil | [Cloak of the People's Militia](https://classic.wowhead.com/item=3511/cloak-of-the-peoples-militia) | Westfall(Red Leather Bandanas)
 | 18 | Legs | 4 Agil 1 Stam 2 Spr | [Wildkeeper Leggings](https://classic.wowhead.com/item=15202/wildkeeper-leggings) | Darkshore(The Blackwood Corrupted)
 | 18 | Bracers | 2 Stam 2 Spr | [Ridgeback Bracers](https://classic.wowhead.com/item=15403/ridgeback-bracers) | Darkshore(Wanted Murkdeep!)
 | 18 | Gloves | 3  Agil 3 Str | [Hammerfist Gloves](https://classic.wowhead.com/item=5629/hammerfist-gloves) | Darkshore(The Absent Minded Prospector)
@@ -51,3 +51,6 @@ Weapon priority is something slow (+3.4s swing time) with high damage rather tha
 - [Researching the Corruption](https://classic.wowhead.com/quest=1275/researching-the-corruption) from Stormwind then Darkshore
 - [Twilight Falls](https://classic.wowhead.com/quest=1199/twilight-falls) from Darnassus
 - [In Search of Thaelrid](https://classic.wowhead.com/quest=1198/in-search-of-thaelrid) from Darnassus (leads to [Blackfathom Villany](https://classic.wowhead.com/quest=1200/blackfathom-villainy))
+
+# Useful Videos
+- Menethil Deathless Skip : https://www.youtube.com/watch?v=q-yHviS7baQ
