@@ -31,3 +31,27 @@
 - [Researching the Corruption](https://classic.wowhead.com/quest=1275/researching-the-corruption) from Stormwind then Darkshore
 - [Twilight Falls](https://classic.wowhead.com/quest=1199/twilight-falls) from Darnassus
 - [In Search of Thaelrid](https://classic.wowhead.com/quest=1198/in-search-of-thaelrid) from Darnassus (leads to [Blackfathom Villany](https://classic.wowhead.com/quest=1200/blackfathom-villainy))
+
+### Razorfen Kraul **33-38**
+**Quests**:
+- [Blueleaf Tubers](https://classic.wowhead.com/quest=1221/blueleaf-tubers) from [Ratchet](https://classic.wowhead.com/npc=3446/mebok-mizzyrix)
+- [Willix the Importer](https://classic.wowhead.com/quest=1144/willix-the-importer) escort inside dungeon
+- [Mortality Wanes](https://classic.wowhead.com/quest=1142/mortality-wanes) from [Darnassus](https://classic.wowhead.com/npc=4510/heralath-fallowbrook)
+- [The Crone of the Kraul](https://classic.wowhead.com/quest=1101/the-crone-of-the-kraul) 2nd part of a quest stareted on the bored between thousand needles and Ferlas.
+
+### Gnomeragan **34-38**
+- [Save Techbot's Brain!](https://classic.wowhead.com/quest=2922/save-techbots-brain) from [Ironforge](https://classic.wowhead.com/npc=7944/tinkmaster-overspark)
+- [Gnogaine](https://classic.wowhead.com/quest=2926/gnogaine) from [Dun Morogh](https://classic.wowhead.com/npc=1268/ozzie-togglevolt)
+- [The Only Cure is More Green Glow](https://classic.wowhead.com/quest=2962/the-only-cure-is-more-green-glow) follow up to Gnogaine
+- [Gyrodrillmatic Excavationators](https://classic.wowhead.com/quest=2928/gyrodrillmatic-excavationators) from [Stormwind](https://classic.wowhead.com/npc=6579/shoni-the-shilent)
+- [Essential Artificials ](https://classic.wowhead.com/quest=2924/essential-artificials) from [Ironforge](https://classic.wowhead.com/npc=6169/klockmort-spannerspan)
+- [Data Rescue](https://classic.wowhead.com/quest=2930/data-rescue) from [Ironforge](https://classic.wowhead.com/npc=7950/master-mechanic-castpipe)
+- [The Grand Betrayal](https://classic.wowhead.com/quest=2929/the-grand-betrayal) from [Ironforge](https://classic.wowhead.com/zone=1537/ironforge)
+
+### Scarlet Monastery **40-45**
+- [In the Name of the Light](https://classic.wowhead.com/quest=1053/in-the-name-of-the-light) from [Southshore](https://classic.wowhead.com/npc=3980/raleigh-the-devout)
+- [Mythology of the Titans](https://classic.wowhead.com/quest=1050/mythology-of-the-titans) from [Ironforge](https://classic.wowhead.com/npc=3979/librarian-mae-paledust)
+
+### Razorfen Downs **41-46**
+- [Bring the Light](https://classic.wowhead.com/quest=3636/bring-the-light) from [Stormwind](https://classic.wowhead.com/npc=1284/archbishop-benedictus)
+- [Extinguishing the Idol](https://classic.wowhead.com/quest=3525/extinguishing-the-idol) escort quest inside RFD
