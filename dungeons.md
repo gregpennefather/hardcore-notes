@@ -55,3 +55,4 @@
 ### Razorfen Downs **41-46**
 - [Bring the Light](https://classic.wowhead.com/quest=3636/bring-the-light) from [Stormwind](https://classic.wowhead.com/npc=1284/archbishop-benedictus)
 - [Extinguishing the Idol](https://classic.wowhead.com/quest=3525/extinguishing-the-idol) escort quest inside RFD
+- [A Host of Evil](https://classic.wowhead.com/quest=6626/a-host-of-evil) from outside RFD
