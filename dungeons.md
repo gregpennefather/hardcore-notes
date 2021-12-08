@@ -56,3 +56,29 @@
 - [Bring the Light](https://classic.wowhead.com/quest=3636/bring-the-light) from [Stormwind](https://classic.wowhead.com/npc=1284/archbishop-benedictus)
 - [Extinguishing the Idol](https://classic.wowhead.com/quest=3525/extinguishing-the-idol) escort quest inside RFD
 - [A Host of Evil](https://classic.wowhead.com/quest=6626/a-host-of-evil) from outside RFD
+
+### Uldaman **47-51**
+- [Solution to Doom](https://classic.wowhead.com/quest=709/solution-to-doom) from [Badlands](https://classic.wowhead.com/npc=2785/theldurin-the-lost)
+- [Power Stones](https://classic.wowhead.com/quest=2418/power-stones) from [Badlands](https://classic.wowhead.com/npc=2817/rigglefuzz)
+- [Reclaimed Treasures](https://classic.wowhead.com/quest=1360/reclaimed-treasures) from [Ironforge](https://classic.wowhead.com/npc=6294/krom-stoutarm)
+- [Agmond's Fate](https://classic.wowhead.com/quest=704/agmonds-fate) with Pre-Quest [Ironband Wants You!](https://classic.wowhead.com/quest=707/ironband-wants-you)
+- [Amulet of Secrets](https://classic.wowhead.com/quest=722/amulet-of-secrets) with Pre-Quest [A Sign Of Hope](https://classic.wowhead.com/quest=720/a-sign-of-hope)
+- [The Hidden Chamber](https://classic.wowhead.com/quest=2240/the-hidden-chamber) with Pre-Quest [The Lost Dwarves](https://classic.wowhead.com/quest=2398/the-lost-dwarves)
+- [The Lost Tablets of Will](https://classic.wowhead.com/quest=1139/the-lost-tablets-of-will) with Pre-Quest [An Embassafor of Evil](https://classic.wowhead.com/quest=762/an-ambassador-of-evil)
+- [The Shattered Necklace](https://classic.wowhead.com/quest=2198/the-shattered-necklace) from Drop inside dungeon
+- [Uldaman Reagent Run](https://classic.wowhead.com/quest=17/uldaman-reagent-run) from with Pre-Quest [Badlands Reagent Run](https://classic.wowhead.com/quest=2500/badlands-reagent-run)
+- [The Platinum Discs](https://classic.wowhead.com/quest=2278/the-platinum-discs) starts and ends in the dungeon
+
+Outside Dungeon:
+- Kill Elite Ambassador Infernus for [An Embassador of Evil](https://classic.wowhead.com/quest=762/an-ambassador-of-evil)
+- **Solution To Doom** loot the Tablet of Ryun'eh from the Ancient Chest in the Sealed Hall (53,61 left of the first dig site)
+- **Power Stones** loot Power Stones from Shadowforge Dwarves (Inside and Outside)
+- **Reclaimed Treasures** loot from chest in North Common Hall near the instance entrance
+- **Amulet of Secrets** looted from Magregan Deepshadow who patrols outside the instance in the Sealed Hall
+
+Inside Dungeon:
+- **Power Stones** loot Power Stones from Shadowforge Dwarves (Inside and Outside)
+- **The Hidden Chamber** combine the shaft and medalion looted in the dungeon to open the door (cant trade so make sure same player picks both up)
+- **Uldaman Reagent Run** loot Magenta Fungus Cap from clusters in the instance
+- **Agmond's Fate** loot Carved Stone Urns from inside instance
+- **The Lost Tablets of Will** loot near Galgann Firehammer (6th boss Dwarf)
