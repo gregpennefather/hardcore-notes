@@ -84,13 +84,13 @@ Inside Dungeon:
 - **The Lost Tablets of Will** loot near Galgann Firehammer (6th boss Dwarf)
 
 ### Zul'Farrak **46-50**
-- [Nekrum's Medallion](https://classic.wowhead.com/quest=2991/nekrums-medallion)[s] with Pre-quest [beginning in the hinterlands](https://classic.wowhead.com/quest=2988/witherbark-cages)
-- [Troll Temper](https://classic.wowhead.com/quest=3042/troll-temper)[s] from Gagetzan
-- [Scarab Shells](https://classic.wowhead.com/quest=2865/scarab-shells)[s] from Gagetzan with pre-quests
-- [Tiara of the Deep](https://classic.wowhead.com/quest=2846/tiara-of-the-deep)[s] from Dustwallow Marsh with prequest starting in Stormwind and Ironforge (Tabetha's Task)
-- [The Prophecy of Mosh'aru](https://classic.wowhead.com/quest=3527/the-prophecy-of-mosharu) with pre-quest Screecher Spirits starting in Ternaris and being done in Feralas
-- [Divino-matic Rod](https://classic.wowhead.com/quest=2768/divino-matic-rod)[s] from Gagetzan
-- [Gahz'rilla](https://classic.wowhead.com/quest=2770/gahzrilla)[s] from Shimmer Flats
+- [Nekrum's Medallion](https://classic.wowhead.com/quest=2991/nekrums-medallion)^ with Pre-quest [beginning in the hinterlands](https://classic.wowhead.com/quest=2988/witherbark-cages)
+- [Troll Temper](https://classic.wowhead.com/quest=3042/troll-temper)^ from Gagetzan
+- [Scarab Shells](https://classic.wowhead.com/quest=2865/scarab-shells)^ from Gagetzan with pre-quests
+- [Tiara of the Deep](https://classic.wowhead.com/quest=2846/tiara-of-the-deep)^ from Dustwallow Marsh with prequest starting in Stormwind and Ironforge (Tabetha's Task)
+- [The Prophecy of Mosh'aru](https://classic.wowhead.com/quest=3527/the-prophecy-of-mosharu)^ with pre-quest Screecher Spirits starting in Ternaris and being done in Feralas
+- [Divino-matic Rod](https://classic.wowhead.com/quest=2768/divino-matic-rod)^ from Gagetzan
+- [Gahz'rilla](https://classic.wowhead.com/quest=2770/gahzrilla)^ from Shimmer Flats
 
 How Tos:
 - **Nekrum's Medallion** kill mob who spawns in final wave of wave attack event
@@ -103,5 +103,19 @@ How Tos:
 - 
 
 ### Muaradon **50-52**
+- [Shadowshard Fragments](https://classic.wowhead.com/quest=7070/shadowshard-fragments)^ from Dustwallow Marsh
+- [Vyletongue Corruption](https://classic.wowhead.com/quest=7041/vyletongue-corruption) from Desolace 
+- [Corruption of Earth and Seed](https://classic.wowhead.com/quest=7065/corruption-of-earth-and-seed)^ from  Desolace
+- [Seed of Life](https://classic.wowhead.com/quest=7066/seed-of-life) from Princess inside the instance
+- [Twisted Evils](https://classic.wowhead.com/quest=7028/twisted-evils)^ from Desolace
+- [The Pariah's Instructions](https://classic.wowhead.com/quest=7067/the-pariahs-instructions) from Centaur Pariah in Desolace
+- [Legends of Maraudon](https://classic.wowhead.com/quest=7044/legends-of-maraudon)^ from outside the orange instance entrance
 
 
+How Tos:
+- **Shadowshard Fragments** kill Shadowshard Smasher outside the purple side entrance
+- **Vyletongue Corruption** fill your vial outside the entrance to the orange side. Use it on plants inside the orange side and kill what spawns
+- **Corruption of Earth and Seed** kill Princess
+- **Twisted Evils** kill and loot demons in purple side
+- **The Pariah's Instructions** kill and loot The Nameless Prophet outside instance. Use the dropped amulet to reveal and kill the 4 centaur khans.
+- **Legends of Maraudon:** drops a rod from  Noxxion in the orange side and a diamon from  Lord Vyletongue in the purple side. Finally kill Celebras the cursed in the green side.
