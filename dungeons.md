@@ -75,22 +75,33 @@ Outside Dungeon:
 - **Power Stones** loot Power Stones from Shadowforge Dwarves (Inside and Outside)
 - **Reclaimed Treasures** loot from chest in North Common Hall near the instance entrance
 - **Amulet of Secrets** looted from Magregan Deepshadow who patrols outside the instance in the Sealed Hall
+- **Uldaman Reagent Run** loot Magenta Fungus Cap from clusters outside the instance
+- **Agmond's Fate** loot Carved Stone Urns from outside instance
 
 Inside Dungeon:
 - **Power Stones** loot Power Stones from Shadowforge Dwarves (Inside and Outside)
 - **The Hidden Chamber** combine the shaft and medalion looted in the dungeon to open the door (cant trade so make sure same player picks both up)
-- **Uldaman Reagent Run** loot Magenta Fungus Cap from clusters in the instance
-- **Agmond's Fate** loot Carved Stone Urns from inside instance
 - **The Lost Tablets of Will** loot near Galgann Firehammer (6th boss Dwarf)
 
-###Ulda Prep:
-- **A Sign of Hope** ready to continue with **Amulet of Secrets** in Insance
-- **Power Stones** ready
-- **Agmond's Fate** ready
-- **Solution to Doom** ready
-- **The Lost Dwarves** ready to continue **The Hidden Chamber** in Instance **TODO**
-- **Reclaimed Treasures** needs to be picked up from Ironforge **TODO**
-- **An Ambassador of Evil** required Pre-quests in Ironforge **TODO**
-- **Uldaman Reagent Run** requires pickup in Loch Modan **TODO**
-- **The Shattered Necklass** can't be started before
-- **The Platinum disks** can't be started before
+### Zul'Farrak **46-50**
+- [Nekrum's Medallion](https://classic.wowhead.com/quest=2991/nekrums-medallion)[s] with Pre-quest [beginning in the hinterlands](https://classic.wowhead.com/quest=2988/witherbark-cages)
+- [Troll Temper](https://classic.wowhead.com/quest=3042/troll-temper)[s] from Gagetzan
+- [Scarab Shells](https://classic.wowhead.com/quest=2865/scarab-shells)[s] from Gagetzan with pre-quests
+- [Tiara of the Deep](https://classic.wowhead.com/quest=2846/tiara-of-the-deep)[s] from Dustwallow Marsh with prequest starting in Stormwind and Ironforge (Tabetha's Task)
+- [The Prophecy of Mosh'aru](https://classic.wowhead.com/quest=3527/the-prophecy-of-mosharu) with pre-quest Screecher Spirits starting in Ternaris and being done in Feralas
+- [Divino-matic Rod](https://classic.wowhead.com/quest=2768/divino-matic-rod)[s] from Gagetzan
+- [Gahz'rilla](https://classic.wowhead.com/quest=2770/gahzrilla)[s] from Shimmer Flats
+
+How Tos:
+- **Nekrum's Medallion** kill mob who spawns in final wave of wave attack event
+- **Troll Temper** kill and loot trolls inside instance
+- **Scarab Shells** kill and loot scarabs from inside the instance
+- **Tiara of the Deep** kill and loot Hydromancer Velratha & 
+- **The Prophecy of Mosh'aru** kill and loot Hydromancer Velratha & Theka the Martyr
+- **Divino-matic Rod** complete the stair event
+- **Gahz'rilla** kill and loot Gahz'rilla
+- 
+
+### Muaradon **50-52**
+
+
